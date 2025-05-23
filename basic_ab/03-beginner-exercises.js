@@ -42,7 +42,7 @@ nulo = 0
 
 const name2 = "Andrea"
 const number2 = 3
-const boolean2 = true
+const boolean2 = true``
 const symbol2 = Symbol("symbol")
 const bigInt2 = 918237947934279891374n
 const undefinedValue2 = undefined
